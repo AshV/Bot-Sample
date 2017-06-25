@@ -1,0 +1,42 @@
+G:\TimeIsNow\TimeIsNow\bin\Bot Application.dll.config
+G:\TimeIsNow\TimeIsNow\bin\Bot Application.dll
+G:\TimeIsNow\TimeIsNow\bin\Bot Application.pdb
+G:\TimeIsNow\TimeIsNow\bin\Autofac.dll
+G:\TimeIsNow\TimeIsNow\bin\Chronic.dll
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.Bot.Builder.Autofac.dll
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.Bot.Builder.dll
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.Bot.Connector.dll
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.Rest.ClientRuntime.dll
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\TimeIsNow\TimeIsNow\bin\Newtonsoft.Json.dll
+G:\TimeIsNow\TimeIsNow\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\TimeIsNow\TimeIsNow\bin\System.Net.Http.Formatting.dll
+G:\TimeIsNow\TimeIsNow\bin\System.Web.Http.dll
+G:\TimeIsNow\TimeIsNow\bin\System.Web.Http.WebHost.dll
+G:\TimeIsNow\TimeIsNow\bin\Autofac.xml
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.Bot.Builder.xml
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.Bot.Builder.Autofac.xml
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.Bot.Connector.xml
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+G:\TimeIsNow\TimeIsNow\bin\Microsoft.WindowsAzure.Configuration.xml
+G:\TimeIsNow\TimeIsNow\bin\Newtonsoft.Json.xml
+G:\TimeIsNow\TimeIsNow\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\TimeIsNow\TimeIsNow\bin\System.Net.Http.Formatting.xml
+G:\TimeIsNow\TimeIsNow\bin\System.Web.Http.xml
+G:\TimeIsNow\TimeIsNow\bin\System.Web.Http.WebHost.xml
+G:\TimeIsNow\TimeIsNow\bin\ar\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\cs\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\en\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\es\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\fa\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\fr\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\ja\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\ru\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\obj\Debug\TimeIsNow.csprojResolveAssemblyReference.cache
+G:\TimeIsNow\TimeIsNow\obj\Debug\Bot Application.dll
+G:\TimeIsNow\TimeIsNow\obj\Debug\Bot Application.pdb
+G:\TimeIsNow\TimeIsNow\bin\it\Microsoft.Bot.Builder.resources.dll
+G:\TimeIsNow\TimeIsNow\bin\nl\Microsoft.Bot.Builder.resources.dll
